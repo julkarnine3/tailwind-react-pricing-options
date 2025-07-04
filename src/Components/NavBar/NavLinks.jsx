@@ -2,7 +2,7 @@ import React from 'react';
 
 const NavLinks = ({route}) => {
     return (
-        <li className='mr-10'><a href={route.path}>{route.name}</a></li>
+        <li className='lg:mr-10 hover:bg-amber-400 rounded-lg px-2'><a href={route.path}>{route.name}</a></li>
     );
 };
 

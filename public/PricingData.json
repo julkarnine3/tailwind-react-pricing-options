@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "name": "Iron Paradise Gym",
+    "price": 50,
+    "description": "A premium gym with top-notch equipment and personal trainers.",
+    "features": ["24/7 Access", "Personal Training", "Group Classes", "Sauna"]
+  },
+  {
+    "id": 2,
+    "name": "FitFlex Fitness",
+    "price": 35,
+    "description": "Affordable fitness center for all levels with flexible memberships.",
+    "features": ["Cardio Zone", "Weight Room", "Locker Rooms", "Free Wi-Fi"],
+    "popular": true
+  },
+  {
+    "id": 3,
+    "name": "Powerhouse Gym",
+    "price": 45,
+    "description": "Popular gym for strength training and bodybuilding enthusiasts.",
+    "features": ["Powerlifting Equipment", "Supplements Bar", "Certified Coaches"]
+  },
+  {
+    "id": 4,
+    "name": "Yoga Bliss Studio",
+    "price": 30,
+    "description": "Peaceful yoga studio with a variety of yoga and meditation classes.",
+    "features": ["Yoga Mats Provided", "Meditation Room", "Workshops", "Tea Lounge"],
+    "popular": true
+  },
+  {
+    "id": 5,
+    "name": "Anytime Fitness",
+    "price": 40,
+    "description": "Convenient gym with multiple locations and round-the-clock access.",
+    "features": ["24/7 Access", "Private Showers", "Virtual Classes", "Mobile App"]
+  },
+  {
+    "id": 6,
+    "name": "Everytime Fitness",
+    "price": 50,
+    "description": "Convenient gym with multiple locations and round-the-clock access.",
+    "features": ["24/7 Access", "Private Showers", "Virtual Classes", "Mobile App"]
+  }
+]
