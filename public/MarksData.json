@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Alice",
+    "results": {
+      "math": 85,
+      "physics": 78,
+      "chemistry": 92
+    }
+  },
+  {
+    "id": 2,
+    "name": "Bob",
+    "results": {
+      "math": 74,
+      "physics": 81,
+      "chemistry": 69
+    }
+  },
+  {
+    "id": 3,
+    "name": "Charlie",
+    "results": {
+      "math": 90,
+      "physics": 88,
+      "chemistry": 95
+    }
+  },
+  {
+    "id": 4,
+    "name": "Diana",
+    "results": {
+      "math": 67,
+      "physics": 72,
+      "chemistry": 70
+    }
+  },
+  {
+    "id": 5,
+    "name": "Ethan",
+    "results": {
+      "math": 92,
+      "physics": 85,
+      "chemistry": 89
+    }
+  }
+]
